@@ -1,5 +1,5 @@
 # .github/workflows/ci.yaml
-# This workflow defines the Continuous Integration (CI) process for your project.
+# This workflow defines the Continuous Integration (CI) process for your project.Adding to the project for CI/CD purposes.
 
 name: CI Workflow # The name of your workflow, displayed in the GitHub Actions tab.
 
